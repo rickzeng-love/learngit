@@ -5,3 +5,4 @@ add second line
 add third line
 add forth line
 fuck both
+reset stage
