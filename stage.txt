@@ -2,5 +2,11 @@ stage file
 commit test
 with no password
 commit success
+
 commit local
 local update
+
+origin edit
+commit local
+origin update file
+
