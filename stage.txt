@@ -2,10 +2,10 @@ stage file
 commit test
 with no password
 commit success
-merger local
+
 commit local
 local update
-merger local
+
 origin edit
 commit local
 origin update file
